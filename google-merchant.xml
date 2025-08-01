@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:c="http://base.google.com/ns/1.0" version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<channel>
+<item>
+<g:image_link>http://www.dataforceapi.com/23-large_default/pack-mug-framed-poster.jpg</g:image_link>
+<g:title> </g:title>
+<g:id>150</g:id>
+<g:google_product_category>Accessories &gt; Home Accessories</g:google_product_category>
+<g:sale_price>35.1 TRY</g:sale_price>
+<g:price>35.2 TRY</g:price>
+<link>http://www.dataforceapi.com/home-accessories/15-pack-mug-framed-poster.html/</link>
+<g:availability>in stock</g:availability>
+</item>
+<item>
+<g:image_link>http://www.dataforceapi.com/1-large_default/hummingbird-printed-t-shirt.jpg</g:image_link>
+<g:title>Hummingbird printed t-shirt</g:title>
+<g:id>1_black0</g:id>
+<g:google_product_category>Clothes &gt; Men</g:google_product_category>
+<g:sale_price>19.13 TRY</g:sale_price>
+<g:price>24.0 TRY</g:price>
+<link>http://www.dataforceapi.com/men/1-2-hummingbird-printed-t-shirt.html#/1-size-s/11-color-black</link>
+<g:availability>in stock</g:availability>
+</item>
+</channel>
+</rss>
+
